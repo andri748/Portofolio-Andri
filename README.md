@@ -1,4 +1,4 @@
-# Portfolio_Andri
+# Portofolio Andri
 Data Science
 # [Project Workshop BisaAI : Analisa sentimen data twitter dengan kata kunci 'bem ui'](https://github.com/andri748/AnalisaSentimenDataTwitterBemUI)
 * Scraped 100 data twitter dengan snscrape
