@@ -9,3 +9,6 @@ Data Science
 
 # [Project DQLab : Fundamental EDA](https://github.com/andri748/DQLabCourseFundaEDA)
 * Disini saya akan menghitung median, mean, standar deviasi (simpangan baku) dan membuat visualisasi sederhana dari quantity penjualan
+
+# [Latihan : Barchart Sederhana](https://github.com/andri748/ITskillsBarchartFunda)
+* Menampilkan barchart dari data yang diberikan
