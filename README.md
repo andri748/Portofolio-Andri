@@ -17,3 +17,6 @@ Data Science
 * Dasar-dasar bahasa r
 * Visualisasi chart sederhana dan piechart
 * Filtering sederhana untuk menampilkan kolom tertentu
+
+# [Kursus DQLab : Dasar-dasar Excel](https://github.com/andri748/BasicExcel)
+* Dasar-dasar excel filtering, chart dan pivot table dengan menggunakan data tranksaksi
