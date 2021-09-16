@@ -13,7 +13,7 @@ Data Science
 # [Latihan : Barchart Sederhana](https://github.com/andri748/ITskillsBarchartFunda)
 * Menampilkan barchart dari data yang diberikan
 
-# [Kursus DQLab : Fundamental for Data Science](https://github.com/andri748/DQLabCourseFundaRforDS)
+# [Kursus DQLab : R Fundamental for Data Science](https://github.com/andri748/DQLabCourseFundaRforDS)
 * Dasar-dasar bahasa r
 * Visualisasi chart sederhana dan piechart
 * Filtering sederhana untuk menampilkan kolom tertentu
