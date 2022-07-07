@@ -2,11 +2,15 @@
 I'm a student at Gunadarma University majoring in Information Systems 6th semester, interested in analyzing data
 
 # [Progate Course: Introduction to Programming Using Python](https://github.com/andri748/Progate-Introduction-to-Python)
+### IntroductionToPython.py include:
 * List and Dictionary
 * Condition
 * Function
 * INIT Method
-* Inheritance
+### For The Inheritance Files:
+* drink.py
+* food.py
+* script.py
 
 # [Progate Course: SQL Fundamental on The Basis for Manipulating Database](https://github.com/andri748/Progate-SQL-Fundamental-on-The-Basis-for-Manipulating-Data/blob/main/SQLFundamental.sql)
 * Select with conditon
