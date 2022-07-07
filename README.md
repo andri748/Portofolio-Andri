@@ -1,7 +1,7 @@
 # Portofolio Andri
 I'm a student at Gunadarma University majoring in Information Systems 6th semester, interested in analyzing data
 
-# [Progate Course: Introduction to Programming Using Python](https://github.com/andri748/Progate-Introduction-to-Python/blob/main/IntroductionToPython.py)
+# [Progate Course: Introduction to Programming Using Python](https://github.com/andri748/Progate-Introduction-to-Python)
 * List and Dictionary
 * Condition
 * Function
