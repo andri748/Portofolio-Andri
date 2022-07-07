@@ -1,6 +1,6 @@
 # Portofolio Andri
 
-# [Progate Course: SQL Fundamental on The Basis for Manipulating Database]()https://github.com/andri748/Progate-SQL-Fundamental-on-The-Basis-for-Manipulating-Data/blob/main/SQLFundamental.sql
+# [Progate Course: SQL Fundamental on The Basis for Manipulating Database](https://github.com/andri748/Progate-SQL-Fundamental-on-The-Basis-for-Manipulating-Data/blob/main/SQLFundamental.sql)
 * Select with conditon
 * Function Aggregation
 * Group By, Having and Distinct
