@@ -1,22 +1,28 @@
 # Portofolio Andri
-Data Science
-# [Project Workshop BisaAI : Analisa sentimen data twitter dengan kata kunci 'bem ui'](https://github.com/andri748/AnalisaSentimenDataTwitterBemUI)
-* Scraped 100 data twitter dengan snscrape
+
+# [Progate Course: SQL Fundamental on The Basis for Manipulating Database]()https://github.com/andri748/Progate-SQL-Fundamental-on-The-Basis-for-Manipulating-Data/blob/main/SQLFundamental.sql
+* Select with conditon
+* Function Aggregation
+* Group By, Having and Distinct
+* Subquery
+
+# [Project Workshop BisaAI: Analisa sentimen data twitter dengan kata kunci 'bem ui'](https://github.com/andri748/AnalisaSentimenDataTwitterBemUI)
+* Scraped 100 data twitter with snscrape
 * Fundamental EDA 
 * Data cleaning and processing menggunakan regex, stopwords dan google_translator
 * Modelling with unsupervised learning and visualization, Modelling with textblob and vader
 * Count accuracy
 
-# [Kursus DQLab : Fundamental EDA](https://github.com/andri748/DQLabCourseFundaEDA)
-* Disini saya akan menghitung median, mean, standar deviasi (simpangan baku) dan membuat visualisasi sederhana dari quantity penjualan
+# [DQLab Course: Fundamental EDA](https://github.com/andri748/DQLabCourseFundaEDA)
+* here I will count a median, mean, standar deviation and make a simple visualization for sales quantity
 
-# [Latihan : Barchart Sederhana](https://github.com/andri748/ITskillsBarchartFunda)
-* Menampilkan barchart dari data yang diberikan
+# [Latihan: Barchart Sederhana](https://github.com/andri748/ITskillsBarchartFunda)
+* Show a barchart based on data given
 
-# [Kursus DQLab : R Fundamental for Data Science](https://github.com/andri748/DQLabCourseFundaRforDS)
-* Dasar-dasar bahasa r
-* Visualisasi chart sederhana dan piechart
-* Filtering sederhana untuk menampilkan kolom tertentu
+# [DQLab Course: R Fundamental for Data Science](https://github.com/andri748/DQLabCourseFundaRforDS)
+* Basic r programming languange
+* Simple chart visualization
+* Simple Filtering for getting a specific column
 
-# [Kursus DQLab : Dasar-dasar Excel](https://github.com/andri748/BasicExcel)
-* Dasar-dasar excel filtering, chart dan pivot table dengan menggunakan data tranksaksi
+# [Kursus DQLab: Dasar-dasar Excel](https://github.com/andri748/BasicExcel)
+* Excel filtering basics, charts and pivot tables using transaction data
