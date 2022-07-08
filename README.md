@@ -1,6 +1,12 @@
 # Portofolio Andri
 I'm a student at Gunadarma University majoring in Information Systems 6th semester, interested in analyzing data
 
+# [Generasi GIGIH Journey Data Analyst Track](https://github.com/andri748/GenerasiGIGIHJourneyDoc)
+* Python Intro, Numpy and Pandas
+* Basic SQL Using Google Cloud Platform BigQuery
+* Basic Statistic
+* Data Visualization Using Google Data Studio
+
 # [Progate Course: Introduction to Programming Using Python](https://github.com/andri748/Progate-Introduction-to-Python)
 ### IntroductionToPython.py include:
 * List and Dictionary
