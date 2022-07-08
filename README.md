@@ -31,6 +31,12 @@ I'm a student at Gunadarma University majoring in Information Systems 6th semest
 * Modelling with unsupervised learning and visualization, Modelling with textblob and vader
 * Count accuracy
 
+# [Final Project Spada DIKTI: build a flood-prone area detection model in Jakarta based on Jakarta flood history data in 2020 and 2019](https://github.com/andri748/SpadaDIKTIProjekAkhir)
+* Collect Data
+* Data Understanding
+* Data Cleaning
+* Build a Model
+
 # [DQLab Course: Fundamental EDA](https://github.com/andri748/DQLabCourseFundaEDA)
 * here I will count a median, mean, standar deviation and make a simple visualization for sales quantity
 
