@@ -1,5 +1,5 @@
 # Portofolio Andri
-I'm a student at Gunadarma University majoring in Information Systems 6th semester, interested in analyzing data
+I'm a Final year student at Gunadarma University majoring in Information Systems, interested in analyzing data
 
 # [Generasi GIGIH Journey Data Analyst Track](https://github.com/andri748/GenerasiGIGIHJourneyDoc)
 * Python Intro, Numpy and Pandas
