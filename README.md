@@ -1,6 +1,10 @@
 # Portofolio Andri
 I'm a Final year student at Gunadarma University majoring in Information Systems, interested in analyzing data
 
+# [Internship SCM as Data Engineer](https://github.com/andri748/MatchingDataSCM)
+* Create Matching Advertising Data Using Python 
+* Manage Truncate Migrate Data Using Airflow
+
 # [Generasi GIGIH Journey Data Analyst Track](https://github.com/andri748/GenerasiGIGIHJourneyDoc)
 * Python Intro, Numpy and Pandas
 * Basic SQL Using Google Cloud Platform BigQuery
