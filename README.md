@@ -2,8 +2,7 @@
 I'm a Final year student at Gunadarma University majoring in Information Systems, interested in analyzing data
 
 # [Internship SCM as Data Engineer](https://github.com/andri748/MatchingDataSCM)
-* Create Matching Advertising Data Using Python 
-* Manage Truncate Migrate Data Using Airflow
+* Create Matching Advertising Data For Marketing Team Using Python
 
 # [Generasi GIGIH Journey Data Analyst Track](https://github.com/andri748/GenerasiGIGIHJourneyDoc)
 * Python Intro, Numpy and Pandas
