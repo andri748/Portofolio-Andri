@@ -10,7 +10,7 @@ I'm a Final year student at Gunadarma University majoring in Information Systems
 * Basic Statistic
 * Data Visualization Using Google Data Studio
 
-@ [Penulisan Ilmiah Sentiment Analysis Using TextBlob](https://github.com/andri748/PenulisanIlmiahSentimentAnalysisTextblob)
+# [Penulisan Ilmiah Sentiment Analysis Using TextBlob](https://github.com/andri748/PenulisanIlmiahSentimentAnalysisTextblob)
 * Get data tweet using snscrape
 * Using TextBlob Library from Python as a lexicon based method 
 
