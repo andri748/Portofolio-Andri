@@ -1,5 +1,5 @@
 # Portofolio Andri
-I'm a Final year student at Gunadarma University majoring in Information Systems, interested in analyzing data
+I'm a Fresh Graduate from Gunadarma University majoring in Information Systems, interested in analyzing data and machine learning. I've internship experience at PT. Surya Citra Media as Data Engineer Intern
 
 # [Internship SCM as Data Engineer](https://github.com/andri748/MatchingDataSCM)
 * Create Matching Advertising Data For Marketing Team Using Python
