@@ -1,7 +1,7 @@
 # Andri's Learning and Career Journey
 I'm a Fresh Graduate from Gunadarma University majoring in Information Systems, interested in analyzing data and machine learning. I've internship experience at PT. Surya Citra Media as Data Engineer Intern
 
-# [Internship SCM as Data Engineer](https://github.com/andri748/MatchingDataSCM)
+# [Internship at PT. Surya Citra Media as Data Engineer](https://github.com/andri748/MatchingDataSCM)
 * Create Matching Advertising Data For Marketing Team Using Python
 
 # [Generasi GIGIH Journey Data Analyst Track](https://github.com/andri748/GenerasiGIGIHJourneyDoc)
